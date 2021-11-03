@@ -1,0 +1,118 @@
+.left{
+	float:left;
+}
+
+.floatLogo{
+	float:left;
+	margin-top: 5px;	
+}
+.floatL{
+	float:left;
+	margin-top: 20px;
+	margin-right: 15px;
+	
+}
+.floatR{
+	float:right;
+	margin-top: 80px;
+	margin-left: 0px;
+	
+}
+.iconM{
+	margin: 20px 15px 0px 400px;
+}
+.userIcon1{
+	float:right;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.userIcon2{
+	float:right;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.floatWebName{
+	float:left;
+	margin: 25px 50px 37px 50px;
+}
+.menuH{
+	margin-top: 100px;
+	background-color: lightgray;
+	overflow:hidden;
+	width: 890px;
+	height: 30px;
+
+
+	
+}
+.menu{
+	float:left;
+	display: block;
+	float:left;
+	padding: 5px 6px;
+	text-decoration: none;
+	font-size: 17px;
+}
+a{
+	display:block;
+	margin:0px 5px 0px 5px;
+	text-align:center;
+}
+a:hover{
+	background-color:gray;
+	color:white;
+}
+body{
+	background-color:lightblue;
+}
+.search-container {
+	
+	
+}
+.search-container button{
+	padding:4px 4px;
+	overflow:hidden;
+	cursor:pointer;
+}
+.search-container button:hover {
+	background-color:gray;
+}
+
+input{
+	border: none;
+	height: 26px;
+	width: 200px;
+	margin-top: 0px;
+	padding: 0px 5px;
+}
+ul.menuF{
+	padding:0;
+	margin-left: 200px;
+	margin-right: 100px;
+	list-style-type:none;
+	background-color:none;
+	overflow: hidden;
+}
+.menuF{
+	float:left;
+	display: block;
+	float:left;
+	padding: 1px 5px;
+	text-decoration: none;
+	font-size: 12px;
+}
+.bnk{
+	float: left;
+	margin-top: 25px;
+}
+.addressF{
+	/*display:block;*/
+	float: left;
+	margin-left:300px;
+	margin-right:0px;
+}
+.footIcon{
+	float: right;
+	margin-top: 0px;
+}

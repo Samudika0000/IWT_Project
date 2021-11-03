@@ -1,0 +1,8 @@
+hr.new1{
+    border:1px solid black;
+}
+hr.newF{
+    float:bottom;
+    margin-top: 500px;
+    border:1px solid black;
+}
